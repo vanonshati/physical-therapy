@@ -1,2 +1,0 @@
-# physical-therapy
-physical-therapy
